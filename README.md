@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benjamin Joseph</h1>
+<h1 align="center">Hi 👋 I'm Benjamin Joseph</h1>
 
 - 🌱 I’m currently learning **C/C++ and Assembly**
 
