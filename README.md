@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Benjamin</h1>
 
-- 🌱 I’m currently learning **C/C++ and Assembly**
+- 🌱 I’m currently learning **Rust and NodeJS**
 
 - 📫 How to reach me **benjaminjoseph2002@gmail.com**
 
